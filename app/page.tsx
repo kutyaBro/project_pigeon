@@ -45,7 +45,7 @@ export default function Home() {
           <div className="container px-4 mx-auto">
             <div className="text-center mb-12">
               <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl">
-                Добро пожаловать в Голубь Супермаркет
+                Добро пожаловать в Супермаркет Голубь
               </h1>
               <p className="mt-4 text-lg text-gray-600 max-w-2xl mx-auto">
                 Свежие продукты, низкие цены и быстрая доставка прямо к вашей двери.
@@ -191,15 +191,15 @@ export default function Home() {
             <div>
               <h4 className="text-md font-semibold mb-4 text-white">Контакты</h4>
               <address className="text-sm not-italic">
-                <p>ул. Примерная, 123</p>
-                <p>Москва, Россия</p>
-                <p className="mt-2">Телефон: +7 (123) 456-78-90</p>
-                <p>Email: info@golub-market.ru</p>
+                <p>ул. Байтик Баатыра 1/4</p>
+                <p>Бишкек, Кыргызстан</p>
+                <p className="mt-2">Телефон: +996 (500) 12-50-52</p>
+                <p>Email: info@golub-market.kg</p>
               </address>
             </div>
           </div>
           <div className="border-t border-gray-800 mt-12 pt-8 text-sm text-center">
-            <p>© 2025 Голубь Супермаркет. Все права защищены.</p>
+            <p>© 2025 Супермаркет Голубь. Все права защищены.</p>
           </div>
         </div>
       </footer>
